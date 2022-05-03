@@ -1,0 +1,7 @@
+{
+  "name": "MiArmario",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
